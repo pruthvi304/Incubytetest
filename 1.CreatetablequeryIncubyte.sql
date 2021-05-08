@@ -1,5 +1,8 @@
 create database incubytedb;
 
+use incubytedb
+
+
 create table incubyte(
 	Cust_Name varchar(255) NOT NULL,
 	Cust_ID varchar(18) NOT NULL,
